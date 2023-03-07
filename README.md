@@ -69,5 +69,5 @@ A short window of 20 and long window of 100, offset by 4 months from the minimum
 ![Image](plot3.png)
 
 
-## conclution 
+## Conclusion 
 Increasing the window size as well as time yielded better prediction results. Overall the Alternative LogisticRegression model did better than the other models. Ultimately, which model is best may depend on which class we care most about predicting, as well as which has better overall economic returns compared to a long-only investment.
